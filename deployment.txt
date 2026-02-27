@@ -1,4 +1,4 @@
-Name: Diksha Upadhyay
+Name: Diksha Kumari
 Project: Task Management System (MERN)
 
 GitHub Repository:
